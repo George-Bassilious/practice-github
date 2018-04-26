@@ -1,6 +1,7 @@
 
 animal = 'cat'
 movie = 'fight club'
+book = 'en annan gryning'
 
 def print_favorites():
   print('Hello world!')
